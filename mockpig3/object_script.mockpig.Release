@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\widget.o
+./release\mywidget.o
+./release\form.o
+./release\qrc_background.o
+./release\qrc_pigphoto.o
+./release\qrc_mypig1.o
+./release\qrc_mock3.o
+./release\moc_widget.o
+./release\moc_mywidget.o
+./release\moc_form.o
+);
